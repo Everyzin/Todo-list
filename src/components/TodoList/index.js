@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { MdDelete } from 'react-icons/md';
+import { MdDelete } from 'react-icons/lib/md/';
 
 import './styles.css';
 
